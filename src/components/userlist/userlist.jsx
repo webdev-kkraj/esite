@@ -44,6 +44,12 @@ const Userlist = ({ updateuser, deleteuser }) => {
                 </td>
               </tr>
             ))}
+
+            {employs.length === 0 && (
+              <tr>
+                <td colSpan="6">No employees found.</td>
+              </tr>
+            )}
           </tbody>
         </table>
       </div>
