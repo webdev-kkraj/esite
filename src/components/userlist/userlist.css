@@ -1,0 +1,22 @@
+.w-5 {
+  width: 5%;
+}
+.w-15 {
+  width: 15%;
+}
+.w-10 {
+  width: 10%;
+}
+.w-25 {
+  width: 25%;
+}
+.w-35 {
+  width: 35%;
+}
+table {
+  width: 100%;
+}
+thead tr td {
+  text-align: center;
+  background-color: MediumSeaGreen;
+}

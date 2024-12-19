@@ -1,0 +1,44 @@
+section {
+  min-height: 100vh;
+}
+.homebannersecn {
+  background-image: url("/public/pexels-olly-3823488.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.homebannersecn {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.homebannersecn form {
+  display: inline-block;
+}
+.homebannersecn form input {
+  margin-bottom: 12px;
+}
+
+.empmsecn {
+  width: 50%;
+  margin: auto;
+  background-color: lightskyblue;
+  padding: 3rem;
+  border-radius: 5px;
+}
+
+.empmsecn div input,
+.empmsecn div textarea {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.empmsecn h2 {
+  text-transform: uppercase;
+}
+.empmsecn button {
+  width: 100%;
+  background-color: deeppink;
+  text-transform: uppercase;
+}

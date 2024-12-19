@@ -1,0 +1,9 @@
+#root {
+  width: 100%;
+}
+section {
+  width: 100%;
+}
+.min-height-0 {
+  min-height: 0px !important;
+}
